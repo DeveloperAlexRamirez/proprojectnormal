@@ -2,7 +2,7 @@
 \SV
 
    // =================================================
-   // Welcome!  New to Makerchip? Try the "Learn" menu.
+   // Cocommit ... Vargas
    // =================================================
 
    // Default Makerchip TL-Verilog Code Template
